@@ -21,3 +21,6 @@ função de ativação para gerar as saídas finais.
 Portanto, essa rede neural em particular é um Perceptron de duas camadas, onde a camada oculta 
 introduz uma etapa intermediária de processamento que pode capturar relações não lineares nos dados, 
 tornando-a mais flexível do que um Perceptron de camada única.
+
+
+![1_piYTTh83qsQJVUMOZKmN5w (1)](https://github.com/GustavoPes23/perceptron-js/assets/95422699/066d8ca3-4700-473a-bde8-3fc4fa972ad6)
